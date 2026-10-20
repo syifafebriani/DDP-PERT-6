@@ -1,7 +1,7 @@
     
     # tugas ke 3
 
-baris = int(input("Masukan jumlah baris:"))
+baris = int(input("Masukan jumlah baris: "))
 
 for i in range(1, baris + 1):
     print("*" *i)
